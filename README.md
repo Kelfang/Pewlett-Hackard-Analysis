@@ -27,6 +27,7 @@ The project was simple and straightforward. The data received was clean without 
 ![retirement_titles_dups_removed](https://github.com/Kelfang/Pewlett-Hackard-Analysis/blob/main/images/retirement_titles_dups_removed.png)
 
 After removing the duplicates, this left us with a total number of 72,458 employees that were born between January 1, 1952, through December 31, 1955. That’s a lot of people exiting within a three-year time span! It also assumes that these individuals will wait until they reach a certain age prior to retiring. Some might opt to exit sooner, while others may want to stay on longer. This is data that would be worth validating with the employee themselves. 
+
 Most notably, the largest group is Senior Engineer which is a highly technical role that requires employees to have a deeper knowledge base and more years’ experience than the role of Engineer. This is definitely a cause for concern as there might not be enough Engineers ready to move into the Senior Engineer role and then those Engineers will likely need to be backfilled as well. Below is a breakdown of employee count by title. 
 
 <sub>Retirement Count by Title</sub>
